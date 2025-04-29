@@ -1,15 +1,15 @@
 # TASK-4-Logistic-Regression
 Binary Classifier using Logistic Regression-Breast Cancer Wisconsin Dataset
-📄 Dataset Overview
+# Dataset Overview
 This dataset consists of 569 samples with 32 features (plus 1 target column: diagnosis). Each sample describes characteristics of a cell nucleus present in a digitized image of a breast mass. The goal is to classify tumors as malignant (M) or benign (B).
 
-Source file:
+# Source file:
 
 bash
 Copy
 Edit
 /kaggle/input/data.csv
-📊 What This Notebook Does
+# What This Notebook Does
 Imports libraries: pandas, numpy, matplotlib, sklearn, and others.
 
 Loads and previews the data.
